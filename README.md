@@ -7,4 +7,7 @@
 
  ~ go run github.com/99designs/gqlgen init
 
+# run graphQL
+ ~ go run ./server.go
+
 ```
